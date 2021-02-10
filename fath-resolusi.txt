@@ -1,3 +1,5 @@
 Safru Rozaky Resolusi
 - Bisa belajar HTML dengan konsisten
 - Dapat memahami seluk beluk tentang HTML
+- Harus bisa membuat program sederhana menggunakan tag-tag HTML
+- Belajar CSS
